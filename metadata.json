@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield AI",
+  "description": "An intelligent phishing detection and website security assessment platform featuring real-time URL heuristic analysis, SSL verification, header auditing, and threat intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
